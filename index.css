@@ -422,8 +422,9 @@ body {
 }
 
 .service-icons img {
-  width: 70px;
-  border-radius: 50%;
+  width: 60px;
+  border-radius: 5px;
+  padding: 6px;
 }
 
 
